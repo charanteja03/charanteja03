@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Charan Teja Koneru
+- 👀 I’m interested in Frontend Developement
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on ReactJS Projects
+- 📫 You can reach me @charanteja03@gmail.com
